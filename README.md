@@ -47,11 +47,15 @@ The analysis of the election show that:
 This code can be used with any election by making a couple modifications as outlined below.
 - One way this code can be modified to use with any election is by changing the text output from "County" to the type of election you are running the code for, for example, "District".   
     - Original code:
+        
         ![Code Screenshot County 1](/Resources/Code_Screenshot_County1.png)   ![Code Screenshot County 2](/Resources/Code_Screenshot_County2.png)
     - Revised code:
-        ![Code Screenshot District 1](/Resources/Code_Screenshot_District1.png)   ![Code Screenshot District 2](/Resources/Code_Screenshot_District2.png)
+        
+        ![Code Screenshot District 1](/Resources/Code_Screenshot_District1.png)  ![Code Screenshot District 2](/Resources/Code_Screenshot_District2.png)
     - Revised output:
+        
         ![Results Screenshot District](/Resources/Results_Screenshot_District.png)
 - Another modification that might need to be made is changing where the code is pulling the data from and where the results are written to.
     - Lines of code to update:
+    
     ![Code Screenshot](/Resources/Code_Screenshot.png)
